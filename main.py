@@ -35,5 +35,6 @@ class Bird:
 
     def move(self):
 
-while True:#we kinda specifying fps here
+while True:#we kinda specifying fps here ,well its also kind of gameloop
     bird.move()
+    
